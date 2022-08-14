@@ -15,6 +15,7 @@ body{
     background-image: url(./images/bg-pattern-top.svg), url(./images/bg-pattern-bottom.svg);
     background-position: -90% -500px, 170% 400px;
     background-repeat: no-repeat;
+    background-color: hsl(185, 75%, 39%);
     min-height: 100vh;
     display: flex;
     align-items: center;
@@ -32,6 +33,8 @@ body{
     background-size: cover;
     height: 150px;
     width: 350px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
 }
 .personal-image{
     height: 100px;
