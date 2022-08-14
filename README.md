@@ -10,11 +10,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -24,11 +20,12 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![profile-card](https://user-images.githubusercontent.com/34186810/184529674-e1af6912-e92a-4926-bcbd-5b80e0de8774.PNG)
+![profile-card](https://user-images.githubusercontent.com/34186810/184534406-6e32212d-6f21-43de-91d6-baa0b13dc32d.PNG)
+
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://yousrakhaleel.github.io/profile-card/ 
 
 ## My process
 
