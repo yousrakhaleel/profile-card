@@ -1,6 +1,3 @@
-/* .attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); } */
-
 *{
     margin: 0;
     padding: 0;
@@ -13,7 +10,7 @@ body{
 }
 .main{
     background-image: url(./images/bg-pattern-top.svg), url(./images/bg-pattern-bottom.svg);
-    background-position: -90% -500px, 170% 400px;
+    background-position: -90% -500px, 170% 340px;
     background-repeat: no-repeat;
     background-color: hsl(185, 75%, 39%);
     min-height: 100vh;
